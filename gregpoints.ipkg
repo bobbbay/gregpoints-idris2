@@ -1,0 +1,13 @@
+package mypkg
+
+modules = GregPoints
+
+        , Crypto.Block
+        , Crypto.Chain
+
+main = GregPoints
+executable = gregpoints
+
+depends = sop
+
+sourcedir = "src"

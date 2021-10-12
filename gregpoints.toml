@@ -1,0 +1,6 @@
+name = "gregpoints"
+version = "0.0"
+
+[ depends ]
+idrisLibs = [ "sop" ]
+buildInputs = [ ]

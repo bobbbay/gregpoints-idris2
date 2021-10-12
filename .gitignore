@@ -1,0 +1,6 @@
+# Idris
+/build
+
+# Nix
+/result
+/.direnv
